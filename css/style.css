@@ -1,0 +1,31 @@
+.fondo{
+	background-color: #E4E4E4;
+}
+.barra{
+	background-color: rgba(244, 67, 54, 0.78);
+        margin: 0
+}
+.item{
+	background-color: white;
+	margin-top: 1em;
+    padding: 1em;
+    cursor: pointer;
+}
+.circulo{
+	border-radius: 50%;
+	width: 3em;
+	height: 3em; 
+	background-color: rgba(244, 67, 54, 0.78);
+}
+.content-news {
+    margin: 0.5em 0;
+    padding: 1em;
+    background-color: white;
+}
+.image {
+    margin: 0 auto;
+}
+#titulo {
+    margin-left: 3em;
+    margin-top: 0.8em;
+}
